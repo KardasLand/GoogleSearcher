@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="KardasLand_Archiver_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/KardasLand_Archiver_jar/Lul.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/KardasLand_Archiver_jar/Archiver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/KardasLand_Archiver_jar/Archiver v1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
